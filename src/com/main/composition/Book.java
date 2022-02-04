@@ -1,4 +1,4 @@
 package com.main.composition;
 
-public class Car {
+public class Book {
 }
